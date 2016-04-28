@@ -26,6 +26,7 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 * The UI must also allow querying patients from a public FHIR test server and allow the import of selected patients into the local database. ([FHIR Test Servers](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)) 
 * Unit tests
 * Logging of user activity
+* Use https://msdn.microsoft.com/en-us/data/gg577609 where possible
  
 
 ### Bits and Pieces to take note of
@@ -38,4 +39,3 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Microsoft C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
 * More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions. [Dean](mailto:dean.atchley@mindlinc.com)
-
