@@ -32,9 +32,9 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 ### Bits and Pieces to take note of
 
 #### UI
-* just include what you think are the important attributes of patient per the FHIR specification
-* for any Patient attribute that is constrained by a value set such as "gender", please use an appropriate UI construct to restrict those selections
-* in the case of the crud "D", just make the patient inactive, we don't like deleting clinical data
+* Include what you think are the important attributes of patient as per the FHIR specification
+* For any patient attribute that is constrained by a value set such as "gender", please use an appropriate UI construct to restrict those selections
+* In the case of the CRUD "D", just make the patient inactive, we don't like deleting clinical data
 
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Microsoft C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
