@@ -14,7 +14,7 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 * You are required to code in C#
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be neatly commented
-* Please complete the code in your local repository and email a patch file or link to hongtrieu.le@holmusk.com
+* Please complete the code in your local repository and email a patch file or link to hongtrieu.le@holmusk.com and hoangphuoc.truong@holmusk.com 
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 
 ## The Challenge 
