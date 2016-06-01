@@ -20,8 +20,9 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 ## The Challenge 
 
 ### What You'll need to build
-* You'll need to build a FHIR based application  ([FHIR](https://www.hl7.org/fhir/) )
-* A Windows Forms or ASP.NET Razor C# based UI
+* You'll need to build a FHIR based application  ([FHIR](https://www.hl7.org/fhir/) ).
+* A Windows Forms based UI.
+* A data access layer using Entity Framework to handle persistence.
 * The UI will allow CRUD operations using a "Patient" resource against a sql server express instance.
 * The UI must also allow querying patients from a public FHIR test server and allow the import of selected patients into the local database. ([FHIR Test Servers](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)) 
 * Unit tests
