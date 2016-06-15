@@ -39,4 +39,6 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Microsoft C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
-* More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions. [Dean](mailto:dean.atchley@mindlinc.com)
+* More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions.
+* A readme file listing *ALL* the steps to setup your submission will be strongly recommended. 
+[Dean](mailto:dean.atchley@mindlinc.com)
