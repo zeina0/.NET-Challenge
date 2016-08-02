@@ -14,21 +14,22 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 * You are required to code in C#
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be neatly commented
-* Please complete the code in your local repository and email a patch file or link to dean.atchley@mindlinc.com, russell.ong@holmusk.com, hongtrieu.le@holmusk.com and hoangphuoc.truong@holmusk.com 
+* Please clone your submission to a repository for your submission and email a link to dean.atchley@mindlinc.com or oswald.maskens@holmusk.com.
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
+* You are strongly recommended to spend no more than 5 hours on this challenge.
 
 ## The Challenge 
 
 ### What You'll need to build
 * You'll need to build a FHIR based application  ([FHIR](https://www.hl7.org/fhir/) ).
-* A Windows Forms based UI.
+* A Windows Forms or ASP.NET Razor C# based UI
 * A data access layer using Entity Framework to handle persistence.
 * The UI will allow CRUD operations using a "Patient" resource against a sql server express instance.
 * The UI must also allow querying patients from a public FHIR test server and allow the import of selected patients into the local database. ([FHIR Test Servers](http://wiki.hl7.org/index.php?title=Publicly_Available_FHIR_Servers_for_testing)) 
 * Unit tests
 * Logging of user activity
-* Use [The Reactive Extensions (Rx)](https://msdn.microsoft.com/en-us/data/gg577609) where possible
- 
+* Use [The Reactive Extensions (Rx)](https://msdn.microsoft.com/en-us/data/gg577609) only if sensible
+* A readme file listing *ALL* the steps (if any) to setup your submission. The readme file should also include a brief summary of software design decisions made and other trade offs. This will be the first file that we'd read ;)
 
 ### Bits and Pieces to take note of
 
@@ -39,6 +40,5 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Microsoft C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
-* More than your ability to code we want to see your ability to learn. So you are encouraged to ask questions.
-* A readme file listing *ALL* the steps to setup your submission will be strongly recommended. 
-[Dean](mailto:dean.atchley@mindlinc.com)
+* More than your ability to code we want to see your ability to learn and communicate. So you are strongly encouraged to ask questions.[Dean](mailto:dean.atchley@mindlinc.com)
+
