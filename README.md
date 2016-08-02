@@ -14,7 +14,7 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 * You are required to code in C#
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be neatly commented
-* Please clone your submission to a bitbucket repository for your submission and email a link to dean.atchley@mindlinc.com, 
+* Please clone your submission to a repository for your submission and email a link to dean.atchley@mindlinc.com or oswald.maskens@holmusk.com.
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 * You are strongly recommended to spend no more than 5 hours on this challenge.
 
@@ -29,7 +29,7 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 * Unit tests
 * Logging of user activity
 * Use [The Reactive Extensions (Rx)](https://msdn.microsoft.com/en-us/data/gg577609) only if sensible
- 
+* A readme file listing *ALL* the steps (if any) to setup your submission. The readme file should also include a brief summary of software design decisions made and other trade offs. This will be the first file that we'd read ;)
 
 ### Bits and Pieces to take note of
 
@@ -41,5 +41,4 @@ This is the Holmusk .NET developer challenge. The rules of the challenge are ver
 ## Judging Criteria 
 * What you have produced will determine your final outcome. You will be scored based upon your coding style and the ability to follow "good code" [See: Microsoft C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
 * More than your ability to code we want to see your ability to learn and communicate. So you are strongly encouraged to ask questions.[Dean](mailto:dean.atchley@mindlinc.com)
-* A readme file listing *ALL* the steps (if any) to setup your submission. The readme file should also include a brief summary of software design decisions made and other trade offs. This will be the first file that we'd read ;)
 
